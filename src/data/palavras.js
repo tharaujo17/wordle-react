@@ -1,0 +1,18 @@
+export const PALAVRAS = [
+  "sagaz", "negro", "mexer", "termo", "nobre", 
+  "senso", "algoz", "afeto", "plena", "sutil", 
+  "vigor", "fazer", "sanar", "audaz", "assim", 
+  "ideia", "cerne", "moral", "desde", "sobre", 
+  "justo", "muito", "honra", "sonho", "razao", 
+  "futil", "etnia", "icone", "anexo", "amigo",
+  "lapso", "expor", "haver", "dengo", "tempo", 
+  "casal", "seara", "pesar", "genro", "posse", 
+  "causa", "dizer", "dever", "prole", "saber",
+  "corja", "levar", "regra", "ajuda", "bravo",
+  "frase", "favor", "fluir", "fator", "citar", 
+  "censo", "acaso", "selar", "ritmo", "chuva", 
+  "calmo", "forte", "praia", "sorte", "feliz",
+  "arvore", "caneta", "celular", "janela", "amarelo", 
+  "violeta", "laranja", "advogar", "cozinha", "esporte", 
+  "familia", "infeliz",
+];
