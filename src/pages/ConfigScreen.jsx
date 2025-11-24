@@ -113,3 +113,5 @@ const ConfigScreen = ({ onStartGame }) => {
     </div>
   );
 };
+
+export default ConfigScreen;
